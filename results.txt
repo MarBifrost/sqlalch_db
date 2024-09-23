@@ -1,0 +1,31 @@
+1. The book with the most pages is: 
+including, with 1000 pages
+
+2. The average number of pages is: 526.0
+
+3. The youngest author is: Stephanie Gill. She was born in 1999-09-13
+
+4. Authors who hasn't a book at all:
+
+Authors with more than 3 books: 
+Charles Mullen
+Willie Mcdonald
+Deborah Hahn
+Perry Garcia
+Kelly Gonzales
+Benjamin Cruz
+Laura Waters
+Richard Dixon
+Jessica Rivera
+Anne Wright
+Samuel Miller
+Michael Watts
+Monica Smith
+Cory Jenkins
+Frank Ray
+Michael Douglas
+Crystal Smith
+Eric Lee
+Amanda Gutierrez
+Angela Dickerson
+
