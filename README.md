@@ -36,7 +36,7 @@ You can install thses dependencies using pip:
    - author_id: Integer (Foreign Key)
    - Relationship with Authors
 
-3. association_table
+3. **association_table**
    - Many-to-many relationship between books and Authors
 
 
