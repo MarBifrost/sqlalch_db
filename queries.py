@@ -1,8 +1,8 @@
-from sqlalchemy import create_engine, desc, func
+from sqlalchemy import desc, func
 from db_objects import Books, Authors
 from sqlalchemy.orm import sessionmaker
+from connections import engine
 
-engine = create_engine('sqlite:///books_and_authors.db', echo=True)
 Session = sessionmaker(bind=engine)
 session = Session()
 
