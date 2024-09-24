@@ -20,7 +20,7 @@ def average_pages():
 
 def youngest_author():
     youth = session.query(Authors).order_by(
-        desc(Authors.date_of_birth)).limit(1).first()
+        desc(Authors.date_of_birth)).first()
     return youth
 
 
